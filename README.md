@@ -2,7 +2,7 @@
 
 ## About
 
-This is a simple code snippet for generating a `sitemap` from `file-based router`. (Tested with [generouted](https://github.com/oedotme/generouted)
+This is a simple code snippet for generating a `sitemap` from `file-based router`. (Tested with [generouted](https://github.com/oedotme/generouted))
 
 You can change the configuration for the generation directly inside the script file. Like changing the domain name, file route extension, and other config.
 
