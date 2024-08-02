@@ -9,7 +9,7 @@ You can change the configuration for the generation directly inside the script f
 ## Install Dependency
 
 ```shell
-npm i glob
+npm i glob --save-dev
 ```
 
 ## Run the Script
